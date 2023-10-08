@@ -1,0 +1,1 @@
+For this project I will be creating a web page from scratch using a design provided by The Odin Project. I'm hoping to be able to implement all the skills that I have learnt so far and strengthen my confidence in coding and troubleshooting. 
