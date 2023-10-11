@@ -111,8 +111,8 @@ a {
 }
 
 .port-img {
-    width: 300px;
-    height: 300px;
+    width: 250px;
+    height: 250px;
 }
 
 .port-caption {
@@ -125,7 +125,6 @@ a {
     justify-content: center;
     align-items: center;
     padding-top: 35px;
-    flex: 1;
     flex-wrap: wrap;
 }
 
